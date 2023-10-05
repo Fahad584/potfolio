@@ -3,5 +3,5 @@
  
  Email Id:
  fahadbhutta5833@gmail.com
- My potfolio 
+ My potfolio
  Frontend website Html Css Javascript
