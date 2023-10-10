@@ -4,4 +4,4 @@
  Email Id:
  fahadbhutta5833@gmail.com
  My potfolio
- Frontend website Html CSS Javascript.
+ Frontend website Html,CSS & Javascript.
